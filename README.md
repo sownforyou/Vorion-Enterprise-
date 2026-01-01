@@ -1,2 +1,4 @@
-# Vorion-Enterprise-
-Ai architecture 
+#!/usr/bin/env python3
+"""
+===============================================================================
+VORION
